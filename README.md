@@ -41,7 +41,7 @@ EXPLORATORY DATA ANALYSIS:
 
 MACHINE LEARNING:
 
-* I did four machine learning algorithms( Linear regression, Decision Tree Regressor, Random Forest Regression, Gradient Boosting Regressor ).
+* I did four machine learning algorithms( Linear regression, Decision Tree Regressor, Random Forest Regression, Gradient Boosting Regressor).
 * I did hyper parameter tuning by using Randomized search CV method for Random Forest Regressor and get the best R2 SCORE OF 0.92.
 * I also measure the error metrics of the models with mean absolute error, mean squared error , Root mean squared error.
 
