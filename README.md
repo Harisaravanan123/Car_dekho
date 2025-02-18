@@ -20,3 +20,4 @@ DATA PREPROCESSING
 * I Used the IQR(Inter Quartile Range) method to remove the outliers that present in the data
 
 EXPLORATORY DATA ANALYSIS:
+![Image](https://github.com/user-attachments/assets/7c9c9aa2-f686-46ba-afdb-46d7555a62fe)
