@@ -39,6 +39,18 @@ EXPLORATORY DATA ANALYSIS:
 * Most of the cars that present in the dataset are maruthi  and most of their cars are in the body type of hatchbacks.
 * The least number of cars manufactured by mercedez-benz and most of their cars are in the bodytype of sedan.
 
+MACHINE LEARNING:
+
+* I did four machine learning algorithms( Linear regression, Decision Tree Regressor, Random Forest Regression, Gradient Boosting Regressor ).
+* I did hyper parameter tuning by using Randomized search CV method for Random Forest Regressor and get the best R2 SCORE OF 0.92.
+* I also measure the error metrics of the models with mean absolute error, mean squared error , Root mean squared error.
+
+![image](https://github.com/user-attachments/assets/85d6afc7-8d97-439a-80be-4894d701a10f)
+
+
+
+
+
 
 
 
