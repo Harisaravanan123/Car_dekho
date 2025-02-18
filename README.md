@@ -30,3 +30,17 @@ EXPLORATORY DATA ANALYSIS:
 
 ![Image](https://github.com/user-attachments/assets/d2c293e7-ac11-4d6f-880d-71104e8979ca)  
 * This image shows the dataset after applying IQR(INTER QUARTILE RANGE) method to remove the outliers.
+
+![Image](https://github.com/user-attachments/assets/a349d771-cd9e-4a02-a3d5-6522d7b7a3f8)
+* The CNG fuel type cars have a very good mileage between  26-33(kmpl).
+* The LPG fuel type cars have a very bad mileage between  16 -19(kmpl).
+
+![Image](https://github.com/user-attachments/assets/b1ddd3c2-f0b1-4c39-aa7b-cfdfa7dfeb75)
+* Most of the cars that present in the dataset are maruthi  and most of their cars are in the body type of hatchbacks.
+* The least number of cars manufactured by mercedez-benz and most of their cars are in the bodytype of sedan.
+
+
+
+
+
+
