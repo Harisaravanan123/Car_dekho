@@ -22,4 +22,11 @@ DATA PREPROCESSING
 EXPLORATORY DATA ANALYSIS:
 ![Image](https://github.com/user-attachments/assets/7c9c9aa2-f686-46ba-afdb-46d7555a62fe)
 * The left side image shows the skewness of the column(Kilometer runned) and the right side of the column shows after applying cuberoot transformation, how the data points are normally distributed.
-![Image](https://github.com/user-attachments/assets/d82826b6-896c-4560-9380-f29cb353c633)  ![Image](https://github.com/user-attachments/assets/d2c293e7-ac11-4d6f-880d-71104e8979ca)  
+
+
+![Image](https://github.com/user-attachments/assets/d82826b6-896c-4560-9380-f29cb353c633)
+* This image shows the outlying data that present in the numerical columns.
+
+
+![Image](https://github.com/user-attachments/assets/d2c293e7-ac11-4d6f-880d-71104e8979ca)  
+* This image shows the dataset after applying IQR(INTER QUARTILE RANGE) method to remove the outliers.
