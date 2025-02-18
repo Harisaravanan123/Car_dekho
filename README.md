@@ -10,7 +10,9 @@ TOOLS:
 * matplotlib
 * Scikit-learn: 1.Random Forest Regressor 2.linear Regression 3.Gradient Boosting Regression 4.Decision Tree Regression 5.RandomizedSearchCV
 * Streamlit
-DATA PREPROCESSING
+
+  
+DATA PREPROCESSING: 
 * The data are in JSON format , first I structured the data into tabular schema.
 * I remove the null values that present in the Dataframe and also changed the datatypes to their respective datatypes.
 * Then by using regular expression , I removed all the symbols and commas. I also did the conversion of bhp to numerical value in the max power(bhp) column. By which we can
