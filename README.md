@@ -47,6 +47,15 @@ MACHINE LEARNING:
 
 ![image](https://github.com/user-attachments/assets/85d6afc7-8d97-439a-80be-4894d701a10f)
 
+STREAMLIT:
+* In the streamlit , based on the features given by the Users , the model will predict the price of the car.
+
+CONCLUSION:
+* We build a web browser from the machine learning model. The  customer will select  the features  based on their needs and budget. The model predicts the price of the used car based on the input given by the customers . It is very useful for the customer to select the features of the cars that they want and under their budget also. It is very helpful for the sales team in the car Dekho to sell their cars very  quickly and they also achieve their sales target.
+
+
+  
+
 
 
 
