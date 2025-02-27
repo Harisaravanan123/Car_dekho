@@ -30,7 +30,7 @@ EXPLORATORY DATA ANALYSIS:
 ![Image](https://github.com/user-attachments/assets/d2c293e7-ac11-4d6f-880d-71104e8979ca)  
 * This image shows the dataset after applying IQR(INTER QUARTILE RANGE) method to remove the outliers.
 
-![Image](https://github.com/user-attachments/assets/a349d771-cd9e-4a02-a3d5-6522d7b7a3f8)
+![Image](https://github.com/user-attachments/assets/10c468a6-460f-4b44-b5ad-3b17d70782ee)
 * The CNG fuel type cars have a very good mileage between  26-33(kmpl).
 * The LPG fuel type cars have a very bad mileage between  16 -19(kmpl).
 
