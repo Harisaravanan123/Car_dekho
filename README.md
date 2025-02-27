@@ -44,7 +44,7 @@ MACHINE LEARNING:
 * I did hyper parameter tuning by using Randomized search CV method for Random Forest Regressor and get the best R2 SCORE OF 0.92.
 * I also measure the error metrics of the models with mean absolute error, mean squared error , Root mean squared error.
 
-![image](https://github.com/user-attachments/assets/85d6afc7-8d97-439a-80be-4894d701a10f)
+![Image](https://github.com/user-attachments/assets/97ce6899-5c64-4875-90ea-5043cb228e0e)
 
 STREAMLIT:
 * In the streamlit , based on the features given by the Users , the model will predict the price of the car.
