@@ -34,7 +34,7 @@ EXPLORATORY DATA ANALYSIS:
 * The CNG fuel type cars have a very good mileage between  26-33(kmpl).
 * The LPG fuel type cars have a very bad mileage between  16 -19(kmpl).
 
-![Image](https://github.com/user-attachments/assets/b1ddd3c2-f0b1-4c39-aa7b-cfdfa7dfeb75)
+![Image](https://github.com/user-attachments/assets/48c8545d-fcbe-4b99-b89d-556aeaef2a7a)
 * Most of the cars that present in the dataset are maruthi  and most of their cars are in the body type of hatchbacks.
 * The least number of cars manufactured by mercedez-benz and most of their cars are in the bodytype of sedan.
 
