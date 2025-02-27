@@ -23,11 +23,11 @@ DATA PREPROCESSING:
 EXPLORATORY DATA ANALYSIS:
 
 
-![Image](https://github.com/user-attachments/assets/d82826b6-896c-4560-9380-f29cb353c633)
+![Image](https://github.com/user-attachments/assets/cac5c1d8-4295-4cfd-b145-a04c70e44b6f)
 * This image shows the outlying data that present in the numerical columns.
 
 
-![Image](https://github.com/user-attachments/assets/d2c293e7-ac11-4d6f-880d-71104e8979ca)  
+![Image](https://github.com/user-attachments/assets/c9d59ec5-4820-4572-b9c3-6189b783ff90)
 * This image shows the dataset after applying IQR(INTER QUARTILE RANGE) method to remove the outliers.
 
 ![Image](https://github.com/user-attachments/assets/10c468a6-460f-4b44-b5ad-3b17d70782ee)
