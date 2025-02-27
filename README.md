@@ -17,13 +17,10 @@ DATA PREPROCESSING:
 * I remove the null values that present in the Dataframe and also changed the datatypes to their respective datatypes.
 * Then by using regular expression , I removed all the symbols and commas. I also did the conversion of bhp to numerical value in the max power(bhp) column. By which we can
  able to use the numerical value in the model training.
-* I did label encoding and target encoding for the categorical columns in the dataframe .
-* I found that my data was positively skewed. I used the cube root transformation to reduce the skewness and the data was normally distributed.
+* I did label encoding  for the categorical columns in the dataframe.
 * I Used the IQR(Inter Quartile Range) method to remove the outliers that present in the data
 
 EXPLORATORY DATA ANALYSIS:
-![Image](https://github.com/user-attachments/assets/7c9c9aa2-f686-46ba-afdb-46d7555a62fe)
-* The left side image shows the skewness of the column(Kilometer runned) and the right side of the column shows after applying cuberoot transformation, how the data points are normally distributed.
 
 
 ![Image](https://github.com/user-attachments/assets/d82826b6-896c-4560-9380-f29cb353c633)
